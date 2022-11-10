@@ -1,10 +1,10 @@
 import styled from "styled-components";
 
 export const LogoDev = styled.h1`
-    margin-top: 44px;
+    margin-top: 38px;
     margin-bottom: 28px;
     color: #fff;
-    font-size: 54px;
+    font-size: 50px;
 `
 export const SpanLink = styled.span`
     background: linear-gradient(#e18700, #ffd43a);

@@ -21,8 +21,8 @@ export const BackLink = styled(Link)`
   background-color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
   color: #555;
-  padding: 4px 16px;
-  margin-top: 14px;
+  padding: 6px 16px;
+  margin-top: 18px;
   border-radius: 5px;
   transition: background-color 0.5s;
   cursor: pointer;

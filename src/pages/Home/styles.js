@@ -11,8 +11,8 @@ export const Container = styled.div`
 export const Title = styled.h1`
   margin-bottom: 14px;
   color: #fff;
-  font-size: 40px;
-  padding-top: 94px;
+  font-size: 94px;
+  padding-top: 50px;
   color: #fff;
 `
 export const Span = styled.span`
