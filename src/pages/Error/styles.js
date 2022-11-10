@@ -23,7 +23,7 @@ export const BackLink = styled(Link)`
   background-color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
   color: #333;
-  padding: 8px 16px;
+  padding: 10px 20px;
   margin-top: 18px;
   border-radius: 5px;
   transition: background-color 0.5s;

@@ -9,11 +9,13 @@ export const Container = styled.div`
   align-items: center;
 `
 export const Title = styled.h1`
-  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
   color: #fff;
-  font-size: 94px;
-  padding-top: 50px;
-  color: #fff;
+  font-size: 44px;
+  margin: 50px 10px 14px 10px;
+
 `
 export const Span = styled.span`
   color: #f1f1f1;
