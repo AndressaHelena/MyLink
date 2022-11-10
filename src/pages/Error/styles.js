@@ -6,7 +6,7 @@ export const Container = styled.main`
   flex-direction: column;
   height: 100vh;
   max-width: 100%;
-  padding: 14px;
+  padding: 0 14px;
   justify-content: center;
   align-items: center;
   background: black;
@@ -20,7 +20,7 @@ export const Title = styled.h2`
 export const BackLink = styled(Link)`
   background-color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
-  color: #555;
+  color: #333;
   padding: 6px 16px;
   margin-top: 18px;
   border-radius: 5px;

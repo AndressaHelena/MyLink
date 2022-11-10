@@ -1,8 +1,7 @@
 import styled from "styled-components";
 
 export const LogoDev = styled.h1`
-    margin-top: 38px;
-    margin-bottom: 28px;
+    margin: 20px 0;
     color: #fff;
     font-size: 50px;
 `
